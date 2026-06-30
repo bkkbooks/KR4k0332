@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0332/v1
+canonical_location: https://kanripo.org/bkk/KR4k0332/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 魏春秋一卷
+  identifiers:
+    krp: KR4k0332
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0332.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0332_001.yaml, hash: 'sha256:e35b786c643bf1f5e39e9179ea0d7a1d40f52e28f8cee7df2297d5461aaa979e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0332_001.markers.yaml, hash: 'sha256:b7a320222536621ca6d06bc8200617e4bd8a3cfcb9fcb01761030226a3a9b7a8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0332_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 264
+  label: 魏春秋
+  type: section
+  level: 1
+hash: sha256:b07b55c2d979fd52c0bf16ed3d0b9479f19a6c6cbcccb5c648d9c3c565a0497c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
