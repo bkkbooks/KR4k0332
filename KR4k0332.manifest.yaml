@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0332_001.yaml, hash: 'sha256:e35b786c643bf1f5e39e9179ea0d7a1d40f52e28f8cee7df2297d5461aaa979e'}
+  - {seq: 1, filename: KR4k0332_001.yaml, hash: 'sha256:92740332d2630254df6284d7b443fc9f34a561abd13ce836a9106acd068a9e35'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0332_001.markers.yaml, hash: 'sha256:b7a320222536621ca6d06bc8200617e4bd8a3cfcb9fcb01761030226a3a9b7a8'}
+  - {seq: 1, role: markers, filename: assets/KR4k0332_001.markers.yaml, hash: 'sha256:c74b5a33fffb8f59846a730265e8b5f920879dd9bff550406f10766ff79fc43c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 魏春秋
   type: section
   level: 1
-hash: sha256:b07b55c2d979fd52c0bf16ed3d0b9479f19a6c6cbcccb5c648d9c3c565a0497c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e92df47f5e6a588235643abc9a74b724d9d4d07ba69e5a1a79541b194dfc7004
