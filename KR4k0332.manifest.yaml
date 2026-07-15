@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0332/v1
 canonical_location: https://kanripo.org/bkk/KR4k0332/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 魏春秋一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0332_001.yaml, hash: 'sha256:92740332d2630254df6284d7b443fc9f34a561abd13ce836a9106acd068a9e35'}
+  - {seq: 1, filename: KR4k0332_001.yaml, hash: 'sha256:be14e3fe3ebc37bb316883598b55e522122e11375d74cd2c440dea9d641b15dc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0332_001.markers.yaml, hash: 'sha256:c74b5a33fffb8f59846a730265e8b5f920879dd9bff550406f10766ff79fc43c'}
+  - {seq: 1, role: markers, filename: assets/KR4k0332_001.markers.yaml, hash: 'sha256:21076f9d7f1f5dc4a6916ae41122c3ba735b768d42030ed1555096c2a4f52923'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 魏春秋
   type: section
   level: 1
-hash: sha256:e92df47f5e6a588235643abc9a74b724d9d4d07ba69e5a1a79541b194dfc7004
+hash: sha256:c4a8a41c3040cda0d82afc5f863e0ab5416ae379f16e712b9fc8418f8c94c1ad
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
